@@ -1,0 +1,7 @@
+C:\Users\NOEL\source\repos\S1_1\bin\Debug\S1_1.exe.config
+C:\Users\NOEL\source\repos\S1_1\bin\Debug\S1_1.exe
+C:\Users\NOEL\source\repos\S1_1\bin\Debug\S1_1.pdb
+C:\Users\NOEL\source\repos\S1_1\obj\Debug\S1_1.csproj.AssemblyReference.cache
+C:\Users\NOEL\source\repos\S1_1\obj\Debug\S1_1.csproj.CoreCompileInputs.cache
+C:\Users\NOEL\source\repos\S1_1\obj\Debug\S1_1.exe
+C:\Users\NOEL\source\repos\S1_1\obj\Debug\S1_1.pdb
